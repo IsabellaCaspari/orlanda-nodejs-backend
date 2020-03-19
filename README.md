@@ -14,7 +14,7 @@ This is a nodejs backend for a chatbot. The backend takes care of the connection
 
 
 ## Create your own Dialogflow Webhook
-[Dialogflow Setup] https://dialogflow.com/docs/integrations/actions/setup
+[Dialogflow Setup](https://dialogflow.com/docs/integrations/actions/setup)
 
 ## First build your onw Facebook Page
 To build a Facebook bot, you first need a Facebook account, with which you log in to Facebook and create a new Facebook page or use an existing one. 
@@ -37,8 +37,8 @@ Now the server can get a message from Dialogflow.
 #### Useful links
 - [Google Calendar](https://developers.google.com/calendar)
 - [OAuth2](https://console.developers.google.com/apis)
-- [MongoDB]https://www.mongodb.com/de
-- [Dialogflow] https://dialogflow.com/
+- [MongoDB](https://www.mongodb.com/de)
+- [Dialogflow](https://dialogflow.com/)
 
 ### Written by
 
